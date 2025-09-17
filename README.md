@@ -76,7 +76,7 @@ Sadly this part with the ditty importer is not automated (yet ?). You must impor
 
   If you don't want to use the script, you will have to use the vivenc.exe in a terminal.
 
-  But you will have to list ALL the files you want to encode together.
+  But you will have to list ALL the files you want to encode together (which is long and tedious).
 
   So it'll be : `vivenc.exe <name_of_viv> <file1> <file2> .... <last_file>`
 
