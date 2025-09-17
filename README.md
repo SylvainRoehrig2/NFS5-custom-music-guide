@@ -73,6 +73,13 @@ Sadly this part with the ditty importer is not automated (yet ?). You must impor
   The files can have an .asf extension or no extension without issue.
 
 * Place the `vivencoding.py` script in the `music_mod` folder and launch it.
+
+  If you don't want to use the script, you will have to use the vivenc.exe in a terminal.
+
+  But you will have to list ALL the files you want to encode together.
+
+  So it'll be : `vivenc.exe <name_of_viv> <file1> <file2> .... <last_file>`
+
 * Place the newly created/modified `zzzmus.viv` file in `<game_folder>/GameData/Music`.
 
 You can now launch the game, and everything should work now !
